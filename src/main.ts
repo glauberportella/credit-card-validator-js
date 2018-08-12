@@ -1,9 +1,0 @@
-import { AmexCreditCard } from './moip/creditcard/AmexCreditCard';
-import { Brands } from './moip/creditcard/Brands';
-import { DinersCreditCard } from './moip/creditcard/DinersCreditCard';
-import { EloCreditCard } from './moip/creditcard/EloCreditCard';
-import { HipercardCreditCard } from './moip/creditcard/HipercardCreditCard';
-import { HiperCreditCard } from './moip/creditcard/HiperCreditCard';
-import { MasterCreditCard } from './moip/creditcard/MasterCreditCard';
-import { VisaCreditCard } from './moip/creditcard/VisaCreditCard';
-import { CreditCard } from './moip/validators/CreditCard';
